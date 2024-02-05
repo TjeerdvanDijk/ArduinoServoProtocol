@@ -35,7 +35,7 @@ subgraph SG90_Servo
 
 S[PWM]
 
-V[5V]
+V[VCC]
 
 G[GND]
 
