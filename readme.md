@@ -43,7 +43,7 @@ end
 
   
 
-subgraph Computer/
+subgraph Computer
 
 USB[USB]
 
